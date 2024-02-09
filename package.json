@@ -1,0 +1,15 @@
+{
+  "name": "zkir",
+  "version": "1.0.0",
+  "description": "Your Ease Tasablih",
+  "main": "start.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github/Lazyboy15/zikir-app"
+  },
+  "author": "Ahmed Khalid",
+  "license": "ISC"
+}
